@@ -1,0 +1,27 @@
+.padre{
+	background-color: #ff9999;
+	width: 600px;
+	height: 30px;
+	border-top: 10px;
+	border-right: 5px;
+	border-bottom: 10px;
+	border-left: 5px;
+	border-style: solid;
+	border-color: #993399;
+	margin: 10px 5px;
+	padding: 20px 25px 35px 40px;
+	
+}
+
+.hijo{
+	background-color: white;
+	width: 100px;
+	height: 10px;
+	border: 2px dashed green;
+	padding: 10px 200px 15px;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: auto;
+	
+
+}
